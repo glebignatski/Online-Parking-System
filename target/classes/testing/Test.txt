@@ -1,0 +1,10 @@
+Average Code Coverage for all Non-GUI classes
+
+payment package = 45.6%
+parking package = 30.2%
+customer package = 62.6%
+system package = 57.1%
+parking officer package = 56.4%
+testing package = 100.0%
+
+Average = (45.6 + 30.2 + 62.6 + 57.1 + 56.4 + 100.0)/6 = 351.5/6 = 58.6%
